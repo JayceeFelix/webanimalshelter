@@ -3,5 +3,4 @@ Personal Project - Animal Shelter website in order to practice HTML, CSS and spe
 
 In development.
 
-
-![project image](https://imgur.com/3rPHZWP)
+https://imgur.com/3rPHZWP
